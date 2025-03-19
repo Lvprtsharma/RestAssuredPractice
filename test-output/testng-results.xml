@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-19T00:21:59 IST" name="Default suite" finished-at="2025-03-19T00:22:02 IST" duration-ms="3192">
+    <groups>
+    </groups>
+    <test started-at="2025-03-19T00:21:59 IST" name="Default test" finished-at="2025-03-19T00:22:02 IST" duration-ms="3192">
+      <class name="com.api.tests.GetProfileRequestTest">
+        <test-method signature="getProfileInfoTest()[pri:0, instance:com.api.tests.GetProfileRequestTest@298a5e20]" started-at="2025-03-19T00:21:59 IST" name="getProfileInfoTest" description="Verify if Profile API is working..." finished-at="2025-03-19T00:22:02 IST" duration-ms="3110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProfileInfoTest -->
+      </class> <!-- com.api.tests.GetProfileRequestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
